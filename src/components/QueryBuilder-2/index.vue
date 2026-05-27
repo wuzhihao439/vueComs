@@ -1,6 +1,6 @@
 <<template>
     <div class="demo-page">
-        <h2 class="page-title">高级查询构建器</h2>
+        <h2 class="page-title">高级查询构建组件</h2>
         <query-builder v-model="queryData" :fields="fieldConfig" @search="onSearch" @reset="onReset" />
     </div>
 </template>
