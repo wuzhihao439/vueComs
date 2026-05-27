@@ -1,0 +1,18 @@
+ <svg class="warehouse-icon" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+            <!-- 仓库主体 -->
+            <path d="M8 20 L32 4 L56 20 L56 56 L8 56 Z" fill="#E6A23C" opacity="0.15" stroke="#E6A23C" stroke-width="2"/>
+            <!-- 屋顶 -->
+            <path d="M4 20 L32 2 L60 20" fill="none" stroke="#E6A23C" stroke-width="3" stroke-linecap="round"/>
+            <!-- 门 -->
+            <rect x="24" y="36" width="16" height="20" rx="2" fill="#E6A23C" opacity="0.3" stroke="#E6A23C" stroke-width="1.5"/>
+            <!-- 货架 -->
+            <line x1="12" y1="30" x2="20" y2="30" stroke="#909399" stroke-width="2"/>
+            <line x1="12" y1="38" x2="20" y2="38" stroke="#909399" stroke-width="2"/>
+            <line x1="14" y1="30" x2="14" y2="38" stroke="#909399" stroke-width="2"/>
+            <line x1="18" y1="30" x2="18" y2="38" stroke="#909399" stroke-width="2"/>
+            <!-- 箱子 -->
+            <rect x="44" y="32" width="8" height="6" rx="1" fill="#67C23A" opacity="0.6"/>
+            <rect x="46" y="40" width="8" height="6" rx="1" fill="#409EFF" opacity="0.6"/>
+            <!-- 警示标志 -->
+            <circle cx="32" cy="14" r="3" fill="#F56C6C"/>
+          </svg>
